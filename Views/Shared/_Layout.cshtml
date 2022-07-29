@@ -15,8 +15,9 @@
     </div>
     <div>
         <form>
-            <input type="text" name="Fname">
-            <input type="submit" name="Fname">
+            <input type="text" id="text-input" name="Fname">
+            <input type="submit" id="submit-button" name="Fname">
+            <ul id="text-output"></ul>
         </form>
     </div>
     <footer class="border-top footer text-muted">
@@ -27,6 +28,7 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/index.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
