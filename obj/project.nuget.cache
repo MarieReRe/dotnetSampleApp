@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9GkGRS0SxHcsomSVp/yuxCkMgbSFurYsHbwAkwRE8HfpcbSfn5S/szkKwu9/c2Dbd3VIK2YFtGLBIRJ5uamzMQ==",
+  "dgSpecHash": "WllNqPC9ccpol0XtdvHmFIxB+wLUx6M0CQBV3UjPwmLiKTNGg7/mtRAL/vqDw/rk2kzE4IiMPpWKAvxNpTvbVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chefa\\Desktop\\dotnetSampleApp\\dotnetSampleApp.csproj",
+  "projectFilePath": "/Users/marieantons/Desktop/dotnetSampleApp/dotnetSampleApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\chefa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "/Users/marieantons/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.10.9/microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],
   "logs": []
 }
