@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chefa\\Desktop\\dotnetSampleApp\\dotnetSampleApp.csproj": {}
+    "/Users/marieantons/Desktop/dotnetSampleApp/dotnetSampleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chefa\\Desktop\\dotnetSampleApp\\dotnetSampleApp.csproj": {
+    "/Users/marieantons/Desktop/dotnetSampleApp/dotnetSampleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chefa\\Desktop\\dotnetSampleApp\\dotnetSampleApp.csproj",
+        "projectUniqueName": "/Users/marieantons/Desktop/dotnetSampleApp/dotnetSampleApp.csproj",
         "projectName": "dotnetSampleApp",
-        "projectPath": "C:\\Users\\chefa\\Desktop\\dotnetSampleApp\\dotnetSampleApp.csproj",
-        "packagesPath": "C:\\Users\\chefa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chefa\\Desktop\\dotnetSampleApp\\obj\\",
+        "projectPath": "/Users/marieantons/Desktop/dotnetSampleApp/dotnetSampleApp.csproj",
+        "packagesPath": "/Users/marieantons/.nuget/packages/",
+        "outputPath": "/Users/marieantons/Desktop/dotnetSampleApp/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\chefa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/marieantons/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
